@@ -127,22 +127,22 @@
     <value>Загрузка аккаунта...</value>
   </data>
   <data name="googleButton.Text" xml:space="preserve">
-    <value>Гугл</value>
+    <value>Google</value>
   </data>
   <data name="InventoryFullText.Text" xml:space="preserve">
     <value>Инвентарь полон</value>
   </data>
   <data name="loginButton.Text" xml:space="preserve">
-    <value>Вход через PTC Аккаунт</value>
+    <value>Вход через аккаунт PTC</value>
   </data>
   <data name="loginInfoText.Text" xml:space="preserve">
-    <value>To login you need to insert your Username/Email and Password in this app. If you don't trust it, please, close it before going on. We are not responsible for anything.</value>
+    <value>Для входа в игру введите Логин и Пароль. Если вы не доверяете, пожалуйтса закройте приложение. Наша команда не за что не отвечает.</value>
   </data>
   <data name="logoutText.Text" xml:space="preserve">
     <value>Выйти</value>
   </data>
   <data name="nearbyText.Text" xml:space="preserve">
-    <value>nearby</value>
+    <value>Поблизости!</value>
   </data>
   <data name="OutOfRangeText.Text" xml:space="preserve">
     <value>Слишком далеко</value>
@@ -157,10 +157,10 @@
     <value>Опыт</value>
   </data>
   <data name="OKButton.Content" xml:space="preserve">
-    <value>Ок</value>
+    <value>ОК</value>
   </data>
   <data name="LoadingEncounter" xml:space="preserve">
-    <value>Loading encounter with </value>
+    <value>Загружается схватка с </value>
   </data>
   <data name="LoggingIn" xml:space="preserve">
     <value>Авторизация...</value>
